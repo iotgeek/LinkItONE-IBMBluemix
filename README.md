@@ -38,10 +38,10 @@ The events that are emitted in this sample are:
   
 #Development
   •	The code contains comments, which explains how to modify the parameters  
-  •	In case of registered flow, you will have to connect tohttps://internetofthings.ibmcloud.com/dashboard/#/ and create the     following  
-    •	Organization  
-    •	Device  
-    •	Auth tokens  
+  •	In case of registered flow, you will have to connect to https://internetofthings.ibmcloud.com/dashboard/#/ and create the     following  
+      •	Organization  
+      •	Device  
+      •	Auth tokens  
 
 
 
