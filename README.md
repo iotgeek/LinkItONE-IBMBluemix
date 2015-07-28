@@ -37,11 +37,12 @@ The events that are emitted in this sample are:
   5.	Modify the clientName  , in the sketch code, by providing the values in the following format "d:666666: LinkItONE: aabbccddeeff ", by replacing " aabbccddeeff " with the MAC Address , "666666" with the organization and LinkItONE by device type.
   
 #Development
-  •	The code contains comments, which explains how to modify the parameters
-  •	In case of registered flow, you will have to connect tohttps://internetofthings.ibmcloud.com/dashboard/#/ and create the following
-  •	Organization
-  •	Device
-  •	Auth tokens
+  •	The code contains comments, which explains how to modify the parameters  
+  •	In case of registered flow, you will have to connect tohttps://internetofthings.ibmcloud.com/dashboard/#/ and create the     following  
+    •	Organization  
+    •	Device  
+    •	Auth tokens  
+
 
 
 
