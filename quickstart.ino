@@ -32,11 +32,7 @@
 
 char macstr[] = "aabbccddeeff";  // Enter the device mac address here
 
-/*  You can use the below code to get the device mac address if needed.
-    byte mac[6];
-    LWiFi.macAddress(mac);
 
-*/
 
 // Note this next value is only used if you intend to test against a local MQTT server
 byte localserver[] = {192,168,1,196};
