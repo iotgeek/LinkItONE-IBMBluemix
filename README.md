@@ -6,7 +6,7 @@ The events that are emitted in this sample are:
   
 #Pre-requisite setup for the 2 flows
 
-  1.	Connect LinkIt ONE board to the working station
+  1.	Connect LinkIt ONE board to the work station ( laptop /desktop )
   2.	Install sketch on desktop / laptop
   3.	Download knolleary client library for the Arduino, from this link
    https://github.com/knolleary/pubsubclient  
