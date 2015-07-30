@@ -12,7 +12,7 @@ The events that are emitted in this sample are:
    https://github.com/knolleary/pubsubclient  
   In the sketch, to load it into the Arduino IDE, Select Sketch -> Import Library -> Add Library and select the folder which contains PubSubClient.cpp and PubSubClient.h files.
   4.	Connect the USB cable to the LinkIt ONE and other end to desktop / laptop which has the sketch installed on it
-  5.	Connect temperature and humidity sensor to the LinkIt ONE board.
+  5.	Connect temperature and humidity sensor to the LinkIt ONE board. The sample code assume that the sensor has been connected to the D2 PIN of the LinkIt ONE board.
   6.	The samples folder of this repository (https://github.com/iotgeek/LinkItONE-IBMBluemix/) contains 2 examples, 
   a) Quickstart flow –quickstart.ino 
   b) Registered flow – registereduser.ino
