@@ -35,11 +35,7 @@
 char servername[] = "666666.messaging.internetofthings.ibmcloud.com";  // Enter Org Id here. 666666 is the dummy irg Id here
 char clientName[] = "d:666666:LinkItONE:aabbccddeeff" ;  // Enter Org Id (666666), Device Type(LinkItONE) & Device Mac address (aabbccddeeff)  Format is : d:orgId:DeviceType:DeviceId
 
-/*  You can use the below code to get the device mac address if needed.
-    byte mac[6];
-    LWiFi.macAddress(mac);
 
-*/
 
 char password[]  ="abcdefghij^%&@%#"; // your password for the device you created in Bluemix
 
